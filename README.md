@@ -64,12 +64,12 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 This project is open source and available for personal and educational use.
 
-## 👤 Author
+## 👨‍💻 Developed by
 
 **Gnanasekaran V**
-📧 v.gnanasekaran007@gmail.com
-🐙 [GitHub](https://github.com/vgnanasekaran007-hub)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-vgnanasekaran007--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vgnanasekaran007-hub)
+[![Gmail](https://img.shields.io/badge/Gmail-vgnanasekaran007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgnanasekaran007@gmail.com)
+
 
 ⭐ If you like this project, consider giving it a star on GitHub!
