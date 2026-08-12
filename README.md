@@ -2,7 +2,11 @@
 
 Taskflow is a beautifully designed to-do app to help you organize your life with categories, priorities, and smart filters.
 
-🔗 **Live Demo:** [https://vgnanasekaran007-hub.github.io/taskflow-todo/](https://vgnanasekaran007-hub.github.io/taskflow-todo/)
+<p align="center">
+  <a href="https://vgnanasekaran007-hub.github.io/taskflow-todo/" style="font-family: 'Times New Roman', serif; font-weight: bold;">
+    🔗 View Live 🔗
+  </a>
+</p>
 
 ## 📸 Screenshot
 
