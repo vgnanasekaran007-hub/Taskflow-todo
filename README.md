@@ -53,7 +53,6 @@ Taskflow is a beautifully designed to-do app to help you organize your life with
 2. Set its **category**, **priority**, and **due date**.
 3. Use the **filters** (category/priority) to narrow down your task list.
 4. Mark tasks as complete or edit/delete them anytime.
-5. Track your progress with the completion
 
 ## 🤝 Contributing
 
