@@ -26,7 +26,6 @@ Taskflow is a beautifully designed to-do app to help you organize your life with
 - 📊 Priority breakdown — see counts for High, Medium, and Low priority tasks
 - 📈 Progress tracker — visual completion percentage (e.g., "X% Completed")
 - 🧹 "Clear Done" to quickly remove completed tasks
-- ✏️ Edit Task modal for quick updates
 
 ## 🖥️ Views
 
